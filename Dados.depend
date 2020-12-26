@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1467938040 source:c:\users\marco aurélio\desktop\dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+
+1475973661 source:c:\users\marco aurélio\documents\codeblocks\projetos\dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+
+1476834728 source:c:\users\marco\documents\codeblocks\projetos\dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+
+1523649704 source:c:\users\marco\onedrive\documentos\codeblocks\projetos\dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+
